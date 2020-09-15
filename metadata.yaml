@@ -1,10 +1,13 @@
 _repo: Die-Engel-mit-dem-Spleen_63100
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Genin, Robert
     gutenberg_agent_id: '52285'
     url: http://www.gutenberg.org/2009/agents/52285
+covers:
+- cover_type: archival
+  image_path: 63100-h/images/cover.jpg
 creator:
   author:
     agent_name: Edschmid, Kasimir
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34714
     wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63100#Die-Engel-mit-dem-Spleen
 gutenberg_issued: '2020-09-02'
 gutenberg_type: Text
 identifiers:
